@@ -1,0 +1,192 @@
+{
+	"CreatedBy": "????",
+	"Account": "PyGuid",
+	"RequestingTradingPartnerID": "EVAB5MM8Yayut1jC",
+	"AssignedTradingPartnerID": "bJf9xt87qFWvOc2Y",
+	"CaseType": "PickupAndDelivery",
+	"ServiceLevel": "Basic",
+	"Equipment": "Trailer",
+	"Mode": "LTL",
+	"PaymentTerm": "Outbound Prepaid",
+	"HotPriority": "",
+	"PickupNotes": "",
+	"DeliveryNotes": "",
+	"OrderRefs": {
+		"BOL": "100000473322",
+		"TrackingNumber": "100000473334",
+		"InvoiceNumber": "665556786",
+		"PickupNumber": "11029041N",
+		"DeliveryNumber": "123456",
+		"PONumber": "W49853650",
+		"SONumber": ""
+	},
+	"OrderOrigin": {
+		"CompanyName": "THE HOME DEPOT 6006",
+		"Address1": "4565 Redlands Ave",
+		"Address2": "NR",
+		"City": "Perris",
+		"State": "CA",
+		"PostalCode": "92571",
+		"Country": "United States",
+		"Phone": "9999999999",
+		"Email": "",
+		"ContactName": ""
+	},
+	"OrderDestination": {
+		"CompanyName": "John Tonelli",
+		"Address1": "50 Brenton Rd",
+		"Address2": "NR",
+		"City": "NEWPORT",
+		"State": "RI",
+		"PostalCode": "02840",
+		"Country": "United States",
+		"Phone": "999119922999",
+		"Email": "",
+		"ContactName": "abc"
+	},
+	"BillTo": {
+		"CompanyName": "Home Depot",
+		"Address1": "2455 Paces Ferry Rd. Nw",
+		"Address2": "",
+		"City": "Atlanta",
+		"State": "GA",
+		"PostalCode": "30339",
+		"Country": "United States",
+		"Phone": "",
+		"Email": "",
+		"ContactName": ""
+	},
+	"OrderAgent": {
+		"CompanyName": "NR",
+		"Address1": "20 Forge Parkway",
+		"Address2": "",
+		"City": "Franklin",
+		"PostalCode": "02038",
+		"State": "MA",
+		"Country": "United States"
+	},
+	"Items": [{
+		"SkuName": "10038288",
+		"SkuDescription": "BASE KITCHE",
+		"TotalWeight": 1.0,
+		"WeightUOM": "lb",
+		"ItemQuantity": 1,
+		"ItemWeight": 0,
+		"PackageType": "",
+		"PackageWeight": 0,
+		"PackageQuantity": 1,
+		"DangerousGoods": 0,
+		"FreightClass": "",
+		"NMFC": "",
+		"MaxTemp": "",
+		"MinTemp": "",
+		"OnHandlingUnit": [{
+			
+			"pyID": "DPB002993277"
+		}],
+
+		"DIMS": {
+			"Length": "24",
+			"Width": "69.199",
+			"Height": "34.5",
+			"UOM": "Inch"
+		}},
+{
+		"SkuName": "10038288",
+		"SkuDescription": "BASE KITCHE",
+		"TotalWeight": 1.0,
+		"WeightUOM": "lb",
+		"ItemQuantity": 1,
+		"ItemWeight": 0,
+		"PackageType": "",
+		"PackageWeight": 0,
+		"PackageQuantity": 1,
+		"DangerousGoods": 0,
+		"FreightClass": "",
+		"NMFC": "",
+		"MaxTemp": "",
+		"MinTemp": "",
+		"OnHandlingUnit": [{
+			
+			"pyID": "DPB002993278"
+		}],
+
+		"DIMS": {
+			"Length": "24",
+			"Width": "69.199",
+			"Height": "34.5",
+			"UOM": "Inch"
+		}},
+{
+		"SkuName": "1003897288",
+		"SkuDescription": "ASSEMBLED 30X34.5X24 IN. BASE KITCHE",
+		"TotalWeight": 1.0,
+		"WeightUOM": "lb",
+		"ItemQuantity": 1,
+		"ItemWeight": 0,
+		"PackageType": "",
+		"PackageWeight": 0,
+		"PackageQuantity": 1,
+		"DangerousGoods": 0,
+		"FreightClass": "",
+		"NMFC": "",
+		"MaxTemp": "",
+		"MinTemp": "",
+		"OnHandlingUnit": [{
+			"pyID": "DPB002993279"
+		}],
+
+		"DIMS": {
+			"Length": "24",
+			"Width": "69.199",
+			"Height": "34.5",
+			"UOM": "Inch"
+		}
+	}],
+	"HandlingUnit": [{
+		"HandlingUnitType": "Pallet",
+		"HandlingUnitQuantity": 1,
+		"HandlingUnitClientID": "DPB002993277",
+		"FreightClass": "",
+		"TotalWeight": 44,
+		"TareWeight": 1.0,
+		"DIMS": {
+			"Length": "",
+			"Width": "",
+			"Height": "",
+			"UOM": ""
+		}},
+             {
+		"HandlingUnitType": "Pallet",
+		"HandlingUnitQuantity": 1,
+		"HandlingUnitClientID": "DPB002993278",
+		"FreightClass": "",
+		"TotalWeight": 44,
+		"TareWeight": 1.0,
+		"DIMS": {
+			"Length": "",
+			"Width": "",
+			"Height": "",
+			"UOM": ""
+		}},
+           {
+		"HandlingUnitType": "Pallet",
+		"HandlingUnitQuantity": 1,
+		"HandlingUnitClientID": "DPB002993279",
+		"FreightClass": "",
+		"TotalWeight": 44,
+		"TareWeight": 1.0,
+		"DIMS": {
+			"Length": "",
+			"Width": "",
+			"Height": "",
+			"UOM": ""
+		}
+	}],
+	"PickupRequestTWStart": "05/17/23 1:00 PM",
+	"PickupRequestTWEnd": "05/17/23 1:00 PM",
+	"PickupGuaranteed": "",
+	"DeliverByTWStart": "05/17/23 1:00 PM",
+	"DeliverByTWEnd": "05/17/23 1:00 PM",
+	"DeliveryGuaranteed": "false"
+}
